@@ -21,10 +21,10 @@ const data = {
         
       ],
     women : [
-      "https://images.bewakoof.com/uploads/grid/app/buy-2-get-1-women-1660891856.jpg",
-      "https://images.bewakoof.com/uploads/grid/app/urban-collection-women-1660893379.jpg",
-      "https://images.bewakoof.com/uploads/grid/app/clearance-banner-women-1661275921.jpg",
-      "https://images.bewakoof.com/uploads/grid/app/1x1-oversized-women-1660651512.jpg"
+      "https://images.bewakoof.com/uploads/grid/app/OVERSIZED-TEES-1X1-w-1667812348.jpg",
+      "https://images.bewakoof.com/uploads/grid/app/streetwear-women-new-1668157458.jpg",
+      "https://images.bewakoof.com/uploads/grid/app/OVERSIZED-TEES-1X1-w-1667812348.jpg",
+      "https://images.bewakoof.com/uploads/grid/app/OVERSIZED-TEES-1X1-w-1667812348.jpg"
     ] ,
     acc:[
       "https://images.bewakoof.com/uploads/grid/app/best-seller-1x1--1658468285.gif",
@@ -39,6 +39,7 @@ const data = {
       "https://images.bewakoof.com/uploads/grid/app/slider-new-1658468288.jpg",
    
     ],
+    
     men2: [
       "https://images.bewakoof.com/uploads/grid/app/hot-new-arrivals-refreshed-1666693631.gif",
       "https://images.bewakoof.com/uploads/grid/app/Static-Banner-1-1-Sliders-1666265382.gif",
@@ -46,9 +47,9 @@ const data = {
       "https://images.bewakoof.com/uploads/grid/app/Static-Banner-1-1-Caps-1667389450.gif",
      
     ],
-    
+   
     women2: [
-      "https://images.bewakoof.com/uploads/grid/app/printed-tops-1x1-1661320785.gif",
+      "https://images.bewakoof.com/uploads/grid/app/category-box-new-women-BFtees-1661872777.jpgyy",
       "https://images.bewakoof.com/uploads/grid/app/k-pop-collection-1x1--1--1661335372.gif",
       "https://images.bewakoof.com/uploads/grid/app/sweatshirts-hoodies-1x1-w-1660893504.jpg",
       "https://images.bewakoof.com/uploads/grid/app/pyjamas-w--1--1660988002.jpg",
@@ -87,8 +88,8 @@ const data = {
           
       ],
       women : [          
-        "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-BoyfriendTees-1657527656.jpg",
-        "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-FashionTops-1657527658.jpg",
+        "https://images.bewakoof.com/uploads/grid/app/category-box-new-women-BFtees-1661872777.jpg",
+        "https://images.bewakoof.com/uploads/grid/app/category-box-new-fullsleeves-women-1665155573.jpg",
         "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-OversizedTees-1657527660.jpg",
         "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-Dresses-1657527657.jpg",
         "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-PJs-1657527660.jpg",
@@ -101,7 +102,7 @@ const data = {
         "https://images.bewakoof.com/uploads/grid/app/category-box-new-final-WOMEN-PrrintedTees-1657527661.jpg"
       ],
 
-     
+      
       acc : [
         "https://images.bewakoof.com/uploads/grid/app/category-box-mobile-covers-1657542496.jpg",
         "https://images.bewakoof.com/uploads/grid/app/category-box-sliders-1657542498.jpg",
@@ -133,10 +134,10 @@ const data = {
       "https://images.bewakoof.com/uploads/grid/app/1-1666264464.jpg"
     ],
     stoopidWomen : [
-      "https://images.bewakoof.com/uploads/grid/app/new-mid-banner-joggers-women1-1660716100.jpg",
+      "https://images.bewakoof.com/uploads/grid/app/me-shirt-women-1658985548-1666890086.jpg",
       "https://images.bewakoof.com/uploads/grid/app/new-mid-banner-2022-combo-tees-w-1660582615.jpg",
-      "https://images.bewakoof.com/uploads/grid/app/AOp-Boxers-mid-banner-Women-1658560814.jpg",
-      "https://images.bewakoof.com/uploads/grid/app/jacket-women-mid-banner-1659350736.jpg"
+      "https://images.bewakoof.com/uploads/grid/app/new-mid-banner-2022-combo-tees-w-1660582615.jpg",
+      "https://images.bewakoof.com/uploads/grid/app/mid-banner-60-off-women-1658985549.jpg"
     ],
     acc: [
       "https://images.bewakoof.com/uploads/grid/app/Mid-Size-Banner-Bags-1656667081.jpg",
