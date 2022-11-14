@@ -45,6 +45,7 @@ const AllRoutes = () => {
             <Route path='/cart' element={<h1> CART</h1>} />
 
             <Route path='/checkout/payment' element={<h1> PAYMENT</h1>} />
+            <Route path='/login' element={<Login> PAYMENT</Login>} />
 
         </Routes>
       

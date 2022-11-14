@@ -5,7 +5,7 @@ import { VscHeart } from "react-icons/vsc";
 import { IoBagOutline } from "react-icons/io5";
 import { IoSearchOutline } from "react-icons/io5";
 import { BsBorderBottom, BsPhone } from "react-icons/bs";
-
+import Logo from "../image/logo.jpg"
 import { FaUserAlt } from "react-icons/fa";
 
 
@@ -61,7 +61,7 @@ const Navbar = () => {
           <li>
             <NavLink to="/">
               <img
-                src="https://images.bewakoof.com/web/ic-desktop-normal-bwkf-logo.svg"
+                src={Logo}
                 alt="logo"
               />
             </NavLink>
